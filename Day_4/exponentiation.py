@@ -1,4 +1,4 @@
-# This code takes the exponent of the numbers below your input until raching zero.
+# This code takes the exponent of the numbers below your input until reaching zero.
 
 
 
